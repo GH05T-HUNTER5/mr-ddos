@@ -1,4 +1,4 @@
-#!/bin/perl
+#!/usr/bin/perl
 use LWP::UserAgent;
 system("clear");
 my $ua = LWP::UserAgent->new;
