@@ -1,4 +1,4 @@
-# What is DDoS Attack?
+## What is DDoS Attack?
 
 <i>
 A Distributed Denial of Service (DDoS) attack attempts to make an online service or a website unavailable by overloading it with vast floods of internet traffic generated from multiple sources. Exploited machines can include computers and other networked resources such as IoT devices.
