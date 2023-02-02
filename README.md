@@ -29,4 +29,4 @@ $ `./install.sh`
 
 $ `./mr-ddos`
 
-#### Power by {a href="https://github.com/cyweb/hammer">hammer</a>}
+#### Power by {<a href="https://github.com/cyweb/hammer">hammer</a>}
