@@ -15,16 +15,18 @@ A large-scale volumetric DDoS attack can generate traffic measured in tens of Gi
 
 <b>mr-ddos</b>
 
-`apt install git -y`
+$ `apt install git -y`
 
-`apt install python -y`
+$ `apt install python -y`
 
-`git clone https://github.com/GH05T-HUNTER5/mr-ddos`
+$ `git clone https://github.com/GH05T-HUNTER5/mr-ddos`
 
-`cd mr-ddos`
+$ `cd mr-ddos`
 
-`chmod +x *`
+$ `chmod +x *`
 
-`./setup.sh`
+$ `./install.sh`
 
-`./mr-ddos.sh`
+$ `./mr-ddos`
+
+#### Power by {hammer}
