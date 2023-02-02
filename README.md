@@ -10,3 +10,21 @@ A large-scale volumetric DDoS attack can generate traffic measured in tens of Gi
 <a href="https://www.javatpoint.com/what-is-ddos-attack"><img src="https://l.top4top.io/p_2589eypuq0.jpg"></a>
 
 <b>More Info Visit : <a href="https://www.javatpoint.com/what-is-ddos-attack">LINK</a></b>
+
+### Installation
+
+<b>mr-ddos</b>
+
+`apt install git -y`
+
+`apt install python -y`
+
+`git clone https://github.com/GH05T-HUNTER5/mr-ddos`
+
+`cd mr-ddos`
+
+`chmod +x *`
+
+`./setup.sh`
+
+`./mr-ddos.sh`
